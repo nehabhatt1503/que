@@ -1,0 +1,31 @@
+﻿text,label
+"""Free money for you! Claim now.""",spam
+"""Meeting tomorrow at 10 AM, don't forget.""",not spam
+"""Win a free trip to Paris! Click here.""",spam
+"""Project deadline is next Friday.""",not spam
+"""You won a lottery! Reply to claim prize.""",spam
+"""Lunch at 1 PM?""",not spam
+"""Exclusive offer just for you. Limited time only.""",spam
+"""Can you review the attached document?""",not spam
+"""Earn $1000 per day from home. Start today!""",spam
+"""Your invoice for last month is attached.""",not spam
+"""Don't miss out on this amazing deal!""",spam
+"""Family reunion scheduled for next month.""",not spam
+"""Update your account information immediately.""",spam
+"""Let's catch up over coffee.""",not spam
+"""Get cheap medications without prescription.""",spam
+"""Thank you for your purchase. Your order has been shipped.""",not spam
+"""Act now to get 50% off your subscription.""",spam
+"""Team meeting rescheduled to Monday.""",not spam
+"""Your account has been suspended. Click to verify.""",spam
+"""Happy birthday! Wishing you a wonderful year ahead.""",not spam
+"""Investment opportunities with high returns.""",spam
+"""Can you send me the latest report?""",not spam
+"""You have been selected for a prize! Respond now.""",spam
+"""Dinner plans tonight?""",not spam
+"""Unlock the secrets to wealth with this one trick.""",spam
+"""Reminder: Doctor's appointment on Thursday.""",not spam
+"""Limited time offer: Buy one get one free!""",spam
+"""Your subscription has been renewed.""",not spam
+"""Congratulations! You're our lucky winner.""",spam
+"""Please find the meeting agenda attached.""",not spam
